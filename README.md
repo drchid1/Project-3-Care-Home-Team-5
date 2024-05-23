@@ -13,3 +13,5 @@ We propose to create an unbiased search tool for hospitals and families looking 
 - Eleanor Duplock
 - Mohammad Liaqat
 - Murali Veerabahu
+
+I have made a small edit
