@@ -10,6 +10,6 @@ We propose to create an unbiased search tool for hospitals and families looking 
 
 - Najma Ali
 - Abdifatah Daoud
-- Elenor Duplock
+- Eleanor Duplock
 - Mohammad Liaqat
-- Murali veerabahu
+- Murali Veerabahu
