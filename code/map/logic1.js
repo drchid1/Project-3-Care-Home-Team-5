@@ -7,7 +7,8 @@ d3.json("../../data/geojson_coordinates.json").then(function(data) {
     /* Loop through the data to get the coordinates
     and save them in the eqPoints array */
     data.features.forEach(function(feature) {
-      chData.push([
+        if *************************
+        chData.push([
           feature.geometry.coordinates[0],
           feature.geometry.coordinates[1],
           feature.properties.formattedAddress.split(',')[0],
