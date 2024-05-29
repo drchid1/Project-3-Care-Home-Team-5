@@ -1,27 +1,66 @@
+let nhMarkers = [];
 
 // Use D3 to load the GeoJSON data
 d3.json("../../data/geojson_coordinates.json").then(function(data) {
     // Create an empty array to hold the coordinates
-    let chData = [];
+    // let chData = [];
+    // let pnMarkers = [];
+    
   
     /* Loop through the data to get the coordinates
     and save them in the eqPoints array */
     data.features.forEach(function(feature) {
-        if *************************
-        chData.push([
-          feature.geometry.coordinates[0],
-          feature.geometry.coordinates[1],
-          feature.properties.formattedAddress.split(',')[0],
-          feature.properties.formattedAddress,
-          feature.properties.email,
-          feature.properties.telephoneNo
-      ]);
-  
+       /* if (feature.properties.provideNursing === "Yes") {
+            pnMarkers.push(L.marker([
+                feature.geometry.coordinates[0],
+                feature.geometry.coordinates[1]]).bindPopup(`<h3>${feature.properties.formattedAddress.split(',')[0]}</h3> <hr> <h5>Email: ${feature.properties.email}</h5> <h5>Telephone: ${feature.properties.telephoneNo}</h5>`)
+            );
+        } */
+    //     chData.push([
+    //       feature.geometry.coordinates[0],
+    //       feature.geometry.coordinates[1],
+    //       feature.properties.formattedAddress.split(',')[0],
+    //       feature.properties.formattedAddress,
+    //       feature.properties.email,
+    //       feature.properties.telephoneNo
+    //   ]);
+        console.log(feature.geometry.coordinates);
+        nhMarkers.push(L.marker(
+            feature.geometry.coordinates) /*.bindPopup(`<h3>${feature.properties.formattedAddress.split(',')[0]}</h3> <hr> <h5>Email: ${feature.properties.email}</h5> <h5>Telephone: ${feature.properties.telephoneNo}</h5>`)*/
+        
+        );
     });
 });
 
+let nhLayer = L.layerGroup(nhMarkers);
+
+// Add a tile layer to the map using OpenStreetMap
+let street = L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+});
+
+
+let baseMaps = {
+    Street: street
+  };
+
+// Create a layer
+// let pnLayer = L.layerGroup(pnMarkers);
+
+// Toggle the layer on and off
+let overlayMaps = {
+    "All Care Homes": nhLayer,
+    // "Provides Nursing Care": pnLayer
+};
+
 // Create a map using Leaflet
-const myMap = L.map("map").setView([52.5022, -2.1184], 12);
+let myMap = L.map("map", {
+    center: [52.5022, -2.1184],
+    zoom: 12,
+    layers: [street, nhLayer]
+});
+
+
 
 // Create a red marker for the hospital
 L.marker([52.5022,-2.1184], {
@@ -37,22 +76,24 @@ L.marker([52.5022,-2.1184], {
 }).bindPopup(`<h3>Russellss Hall Hospital</h3> <hr> <h5>Telephone: 01384 456111</h5>
     <h5>Address: Pensnett Rd, Dudley DY1 2HQ</h5>`).addTo(myMap);
 
-// Add a tile layer to the map using OpenStreetMap
-L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
-    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-}).addTo(myMap);
 
-/* Loop through the coordinates array and add a circle marker for each
-coordinate and bind a popup with the title, place and time of the earthquake */
-chData.forEach(function(info) {
-    let [lat, lon, cHomeName, cHomeAdd, email, tel ] = info;
-    console.log(lat, lon);
-    L.marker([lat,lon], {
-    draggable: true,
-    title: "Care Home"
-    }).bindPopup(`<h3>${cHomeName}</h3> <hr> <h5>Email: ${email}</h5> <h5>Telephone: ${tel}</h5>
-    <h5>Address: ${cHomeAdd}</h5>`).addTo(myMap);
-});
+
+
+
+
+// Layer control for the map
+L.control.layers(baseMaps, overlayMaps).addTo(myMap);
+
+/* Loop through the coordinates array and add a marker for each
+coordinate and bind a popup with the title, place and time */
+// chData.forEach(function(info) {
+//     let [lat, lon, cHomeName, cHomeAdd, email, tel ] = info;
+//     L.marker([lat,lon], {
+//     draggable: true,
+//     title: "Care Home"
+//     }).bindPopup(`<h3>${cHomeName}</h3> <hr> <h5>Email: ${email}</h5> <h5>Telephone: ${tel}</h5>
+//     <h5>Address: ${cHomeAdd}</h5>`).addTo(myMap);
+// });
   
   
 //   // Position the legend in the bottom right corner
