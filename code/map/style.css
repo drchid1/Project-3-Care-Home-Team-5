@@ -6,8 +6,9 @@ body {
 #map,
 body,
 html {
-  height: 100%;
+  height: 95%;
 }
+
 /* Styling for the Legend */
 .legend {
   padding: 10px;

@@ -1,0 +1,1855 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.5,
+          -2.08333
+        ]
+      },
+      "properties": {
+        "careHomeName": "Voyage care",
+        "nameAddress": "48 Cedar Road (Voyage) Dudley, DY1 4HW",
+        "email": "48CedarRoad@voyagecare.\ncom",
+        "telephoneNo": "01384 241877",
+        "ageRange": "Under 65",
+        "cqcRegisteredFor": "Learning Disability \nMental Health Condition \nPhysical Disabilities \nSensory Impairment \nSubstance Misuse \nYounger Adults",
+        "provideNursing": "No",
+        "capacity": 9.0,
+        "postCode": "DY1 4HW",
+        "coordinates": "[52.5, -2.08333]",
+        "latitude": 52.5,
+        "longitude": -2.08333,
+        "rating": "No published rating"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.4857514,
+          -2.1341733
+        ]
+      },
+      "properties": {
+        "careHomeName": "Abbeygate Care ",
+        "nameAddress": "Abbeygate Care Centre 2 Leys Road Brockmoor Brierley Hill DY5 3UR",
+        "email": "abbeygatecare1@gmail.com",
+        "telephoneNo": "01384 571295",
+        "ageRange": "65+",
+        "cqcRegisteredFor": "Dementia \nMental Health Condition \nOld Age \nPhysical Disability \nSensory Impairment",
+        "provideNursing": "No",
+        "capacity": 17.0,
+        "postCode": "DY5 3UR",
+        "coordinates": "[52.4857514, -2.1341733]",
+        "latitude": 52.4857514,
+        "longitude": -2.1341733,
+        "rating": "No published rating"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.4584,
+          -2.16295
+        ]
+      },
+      "properties": {
+        "careHomeName": "Abbeymere ",
+        "nameAddress": "Abbeymere 12 Eggington Road Wollaston Stourbridge DY8 2QJ",
+        "email": "abbeymere@karelink.co.uk",
+        "telephoneNo": "01384 395195",
+        "ageRange": "65+",
+        "cqcRegisteredFor": "Dementia \nMental Health Condition \nOld Age \nPhysical Disability \nSensory Impairment",
+        "provideNursing": "No",
+        "capacity": 18.0,
+        "postCode": "DY8 2QJ",
+        "coordinates": "[52.4584, -2.16295]",
+        "latitude": 52.4584,
+        "longitude": -2.16295,
+        "rating": "No published rating"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.4613003,
+          -2.0139452
+        ]
+      },
+      "properties": {
+        "careHomeName": "Allenbrook Nursing ",
+        "nameAddress": "Allenbrook Nursing Home 209 Spies Lane Halesowen B62 9SJ",
+        "email": "manager@allenbrooknursing\nhome.co.uk",
+        "telephoneNo": "0121 422 5844",
+        "ageRange": "55+",
+        "cqcRegisteredFor": "Dementia \nMental Health Condition \nNo Medical Intervention \nOld Age \nPhysical Disability \nSensory Impairment",
+        "provideNursing": "Yes",
+        "capacity": 36.0,
+        "postCode": "B62 9SJ",
+        "coordinates": "[52.4613003, -2.0139452]",
+        "latitude": 52.4613003,
+        "longitude": -2.0139452,
+        "rating": "No published rating"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.4927718,
+          -2.1164204
+        ]
+      },
+      "properties": {
+        "careHomeName": "Amberley Care Home ",
+        "nameAddress": "Amberley Care Home 481-483 Stourbridge Road Harts Hill Brierley Hill DY5 1LB",
+        "email": "amberleycarehome@hotmail\n.co.uk",
+        "telephoneNo": "01384 482365",
+        "ageRange": "65+",
+        "cqcRegisteredFor": "Dementia \nOld Age",
+        "provideNursing": "No",
+        "capacity": 25.0,
+        "postCode": "DY5 1LB",
+        "coordinates": "[52.4927718, -2.1164204]",
+        "latitude": 52.4927718,
+        "longitude": -2.1164204,
+        "rating": "No published rating"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.5481562,
+          -2.094362
+        ]
+      },
+      "properties": {
+        "careHomeName": "Arcare For Forte ",
+        "nameAddress": "Arcare For Forte 440 Birmingham New Road Bilston WV14 9QB",
+        "email": "ksharma@arcarehomes.co.u\nk",
+        "telephoneNo": "01902 880108",
+        "ageRange": "18+",
+        "cqcRegisteredFor": "Learning Disability \nMental Health Condition \nOld Age \nPhysical Disability \nSensory Impairment \nYounger Adults",
+        "provideNursing": "No",
+        "capacity": 9.0,
+        "postCode": "WV14 9QB",
+        "coordinates": "[52.5481562, -2.094362]",
+        "latitude": 52.5481562,
+        "longitude": -2.094362,
+        "rating": "No published rating"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.517467,
+          -2.101861
+        ]
+      },
+      "properties": {
+        "careHomeName": "Ashbourne Care Ltd ",
+        "nameAddress": "Ashbourne Care Ltd Lightwood Road Dudley DY1 2RS",
+        "email": "ashbourne.m@fshc.co.uk",
+        "telephoneNo": "01384 242200",
+        "ageRange": "65+",
+        "cqcRegisteredFor": "Dementia \nOld Age",
+        "provideNursing": "No",
+        "capacity": 38.0,
+        "postCode": "DY1 2RS",
+        "coordinates": "[52.517467, -2.101861]",
+        "latitude": 52.517467,
+        "longitude": -2.101861,
+        "rating": "No published rating"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.4777428,
+          -2.0859231
+        ]
+      },
+      "properties": {
+        "careHomeName": "Ashgrove Nursing ",
+        "nameAddress": "Ashgrove Nursing Home 9 Dudley Wood Road Netherton Dudley DY2 0DA",
+        "email": "cea@ashgrovecare.com",
+        "telephoneNo": "01384 413913",
+        "ageRange": "65+",
+        "cqcRegisteredFor": "Dementia \nOld Age \nSensory Impairment",
+        "provideNursing": "Yes",
+        "capacity": 57.0,
+        "postCode": "DY2 0DA",
+        "coordinates": "[52.4777428, -2.0859231]",
+        "latitude": 52.4777428,
+        "longitude": -2.0859231,
+        "rating": "Requires improvement"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.4453886,
+          -2.157669
+        ]
+      },
+      "properties": {
+        "careHomeName": "Avondale  ",
+        "nameAddress": "Avondale 45 Norton Road Norton Stourbridge DY8 2AH",
+        "email": "avondaleresthome@hotmail.\ncom",
+        "telephoneNo": "01384 442731",
+        "ageRange": "65+",
+        "cqcRegisteredFor": "Old Age",
+        "provideNursing": "No",
+        "capacity": 15.0,
+        "postCode": "DY8 2AH",
+        "coordinates": "[52.4453886, -2.157669]",
+        "latitude": 52.4453886,
+        "longitude": -2.157669,
+        "rating": "No published rating"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.4809461,
+          -2.12446
+        ]
+      },
+      "properties": {
+        "careHomeName": "Beatrice House ",
+        "nameAddress": "Beatrice House 25 Bell Street Pensnett Brierley Hill DY5 4HG",
+        "email": "beatricehouse@alphonsusse\nrvices.co.uk",
+        "telephoneNo": "01384 482963",
+        "ageRange": "Not Stated",
+        "cqcRegisteredFor": "Learning Disability",
+        "provideNursing": "No",
+        "capacity": 3.0,
+        "postCode": "DY5 4HG",
+        "coordinates": "[52.4809461, -2.12446]",
+        "latitude": 52.4809461,
+        "longitude": -2.12446,
+        "rating": "No published rating"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.5037783,
+          -2.1017361
+        ]
+      },
+      "properties": {
+        "careHomeName": "Belvidere ",
+        "nameAddress": "Belvidere 41-43 Stourbridge Road Holly Hall Dudley DY1 2DH",
+        "email": "belvidere@gmail.com",
+        "telephoneNo": "01384 211850",
+        "ageRange": "55+",
+        "cqcRegisteredFor": "Dementia \nDetention Under Mental \nHealth Act \nMental Health Condition \nOld Age \nPhysical Disability \nSensory Impairment",
+        "provideNursing": "No",
+        "capacity": 28.0,
+        "postCode": "DY1 2DH",
+        "coordinates": "[52.5037783, -2.1017361]",
+        "latitude": 52.5037783,
+        "longitude": -2.1017361,
+        "rating": "Requires improvement"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.4640096,
+          -2.1481652
+        ]
+      },
+      "properties": {
+        "careHomeName": "Brambles Rest Home ",
+        "nameAddress": "Brambles Rest Home 69-70 Vicarage Road Amblecote Stourbridge DY8 4JA",
+        "email": "info@thebramblescarehom\ne.co.uk",
+        "telephoneNo": "01384 379034",
+        "ageRange": "50+",
+        "cqcRegisteredFor": "Dementia \nOld Age \nPhysical Disability \nYounger Adults",
+        "provideNursing": "No",
+        "capacity": 35.0,
+        "postCode": "DY8 4JA",
+        "coordinates": "[52.4640096, -2.1481652]",
+        "latitude": 52.4640096,
+        "longitude": -2.1481652,
+        "rating": "Requires improvement"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.51555495,
+          -2.08777229906
+        ]
+      },
+      "properties": {
+        "careHomeName": "Broadway Halls ",
+        "nameAddress": "Broadway Halls The Broadway Dudley DY1 3EA",
+        "email": "broadwayhalls.administrato\nr@brighterkind.com",
+        "telephoneNo": "01384 215190",
+        "ageRange": "65+",
+        "cqcRegisteredFor": "Dementia \nOld Age \nPhysical Disability",
+        "provideNursing": "Yes",
+        "capacity": 83.0,
+        "postCode": "DY1 3EA",
+        "coordinates": "[52.515554949999995, -2.0877722990597367]",
+        "latitude": 52.51555495,
+        "longitude": -2.08777229906,
+        "rating": "Requires improvement"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.5028747,
+          -2.1047859
+        ]
+      },
+      "properties": {
+        "careHomeName": "Camelot Rest Home ",
+        "nameAddress": "Camelot Rest Home 152 Stourbridge Road Holy Hall Dudley DY1 2ER",
+        "email": "cam152@hotmail.co.uk",
+        "telephoneNo": "01384 214290",
+        "ageRange": "18+",
+        "cqcRegisteredFor": "Dementia \nOld Age",
+        "provideNursing": "No",
+        "capacity": 33.0,
+        "postCode": "DY1 2ER",
+        "coordinates": "[52.5028747, -2.1047859]",
+        "latitude": 52.5028747,
+        "longitude": -2.1047859,
+        "rating": "Requires improvement"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.513868,
+          -2.0858346
+        ]
+      },
+      "properties": {
+        "careHomeName": "Castle View ",
+        "nameAddress": "Castle View 6 Priory Road Dudley DY1 4AD",
+        "email": "goldenseniorcare@outlook.\ncom",
+        "telephoneNo": "01384 253426",
+        "ageRange": "18+",
+        "cqcRegisteredFor": "Dementia \nOld Age",
+        "provideNursing": "No",
+        "capacity": 13.0,
+        "postCode": "DY1 4AD",
+        "coordinates": "[52.513868, -2.0858346]",
+        "latitude": 52.513868,
+        "longitude": -2.0858346,
+        "rating": "Good"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.5015863,
+          -2.1698679
+        ]
+      },
+      "properties": {
+        "careHomeName": "Castlewellan House ",
+        "nameAddress": "Castlewellan House 41 Moss Grove Kingswinford DY6 9HP",
+        "email": "admin@horizontc.com",
+        "telephoneNo": "01384 298321",
+        "ageRange": "65+",
+        "cqcRegisteredFor": "Old Age",
+        "provideNursing": "No",
+        "capacity": 18.0,
+        "postCode": "DY6 9HP",
+        "coordinates": "[52.5015863, -2.1698679]",
+        "latitude": 52.5015863,
+        "longitude": -2.1698679,
+        "rating": "Good"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.4387806,
+          -2.1367573
+        ]
+      },
+      "properties": {
+        "careHomeName": "Cedars (The) ",
+        "nameAddress": "Cedars (The) 20-22 Redlake Road Pedmore Stourbridge DY9 0SA",
+        "email": "thecedars22@hotmail.com",
+        "telephoneNo": "01562 882299",
+        "ageRange": "65+ \nNo \nSmoking",
+        "cqcRegisteredFor": "Dementia \nOld Age",
+        "provideNursing": "No",
+        "capacity": 22.0,
+        "postCode": "DY9 0SA",
+        "coordinates": "[52.4387806, -2.1367573]",
+        "latitude": 52.4387806,
+        "longitude": -2.1367573,
+        "rating": "No published rating"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.4709654,
+          -2.1499568
+        ]
+      },
+      "properties": {
+        "careHomeName": "Comberton (The) ",
+        "nameAddress": "Comberton (The) 2 King William Street Amblecote Stourbridge DY8 4EP",
+        "email": "comberton@astleycarehom\nes.co.uk",
+        "telephoneNo": "01384 262027",
+        "ageRange": "18+",
+        "cqcRegisteredFor": "Dementia \nOld Age \nPhysical Disability \nYounger Adults",
+        "provideNursing": "Yes",
+        "capacity": 36.0,
+        "postCode": "DY8 4EP",
+        "coordinates": "[52.4709654, -2.1499568]",
+        "latitude": 52.4709654,
+        "longitude": -2.1499568,
+        "rating": "Requires improvement"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.50345735,
+          -2.072545585297
+        ]
+      },
+      "properties": {
+        "careHomeName": "Edmore House ",
+        "nameAddress": "Edmore House 20 Oakham Road Dudley DY2 7TB",
+        "email": "ann117@btinternet.com",
+        "telephoneNo": "01384 255149",
+        "ageRange": "65+",
+        "cqcRegisteredFor": "Old Age",
+        "provideNursing": "No",
+        "capacity": 18.0,
+        "postCode": "DY2 7TB",
+        "coordinates": "[52.50345735, -2.0725455852966848]",
+        "latitude": 52.50345735,
+        "longitude": -2.072545585297,
+        "rating": "Good"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.48173,
+          -2.12139
+        ]
+      },
+      "properties": {
+        "careHomeName": "Eve House ",
+        "nameAddress": "Eve House (Alphonsus) 58a Albert Street Pensnett Brierley Hill DY5 4HW",
+        "email": "evehouse@alphonsusservic\nes.co.uk",
+        "telephoneNo": "01384 482728",
+        "ageRange": "18+",
+        "cqcRegisteredFor": "Learning Disability \nMental Health Condition \nPhysical Disability \nYounger Adults",
+        "provideNursing": "No",
+        "capacity": 5.0,
+        "postCode": "DY5 4HW",
+        "coordinates": "[52.48173, -2.12139]",
+        "latitude": 52.48173,
+        "longitude": -2.12139,
+        "rating": "No published rating"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.4594051,
+          -2.025260015283
+        ]
+      },
+      "properties": {
+        "careHomeName": "Gower Gardens ",
+        "nameAddress": "Gower Gardens Kent Road Halesowen B62 8PQ",
+        "email": "gowergardens.business@ki\nngsleyhealthcare.co.uk",
+        "telephoneNo": "0121 289 3965",
+        "ageRange": "65+",
+        "cqcRegisteredFor": "Dementia \nMental Health Condition \nOld Age \nPhysical Disability \nSensory Impairment",
+        "provideNursing": "No",
+        "capacity": 66.0,
+        "postCode": "B62 8PQ",
+        "coordinates": "[52.4594051, -2.025260015283357]",
+        "latitude": 52.4594051,
+        "longitude": -2.025260015283,
+        "rating": "No published rating"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.5017384,
+          -2.0828334
+        ]
+      },
+      "properties": {
+        "careHomeName": "Grazebrook Homes ",
+        "nameAddress": "Grazebrook Homes 37-39 Adshead Road Dudley DY2 8SS",
+        "email": "grazebrook@trustedhands. \nco.uk",
+        "telephoneNo": "01384 240502",
+        "ageRange": "18-65",
+        "cqcRegisteredFor": "Dementia \nLearning Disability \nPhysical Disability \nSensory Impairment",
+        "provideNursing": "No",
+        "capacity": 9.0,
+        "postCode": "DY2 8SS",
+        "coordinates": "[52.5017384, -2.0828334]",
+        "latitude": 52.5017384,
+        "longitude": -2.0828334,
+        "rating": "No published rating"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.5017384,
+          -2.0828334
+        ]
+      },
+      "properties": {
+        "careHomeName": "Grazebrook Homes ",
+        "nameAddress": "Grazebrook Homes 49-51 Adshead Road Dudley DY2 8SS",
+        "email": "grazebrook@trustedhands. \nco.uk",
+        "telephoneNo": "01384 255171",
+        "ageRange": "18-65",
+        "cqcRegisteredFor": "Dementia \nLearning Disability \nPhysical Disability \nSensory Impairment",
+        "provideNursing": "No",
+        "capacity": 9.0,
+        "postCode": "DY2 8SS",
+        "coordinates": "[52.5017384, -2.0828334]",
+        "latitude": 52.5017384,
+        "longitude": -2.0828334,
+        "rating": "No published rating"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.5931208,
+          -2.1066216
+        ]
+      },
+      "properties": {
+        "careHomeName": "Greenleigh ",
+        "nameAddress": "Greenleigh 219 Wolverhampton Road Sedgley DY3 1QR",
+        "email": "greenleigh@select-\ngroup.co.uk",
+        "telephoneNo": "01902 664023",
+        "ageRange": "65+",
+        "cqcRegisteredFor": "Dementia \nOld Age \nPhysical Disability",
+        "provideNursing": "No",
+        "capacity": 35.0,
+        "postCode": "DY3 1QR",
+        "coordinates": "[52.5931208, -2.1066216]",
+        "latitude": 52.5931208,
+        "longitude": -2.1066216,
+        "rating": "No published rating"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.444642204405,
+          -2.066080886892
+        ]
+      },
+      "properties": {
+        "careHomeName": "Halas Homes ",
+        "nameAddress": "Halas Homes Wassell Road Hasbury Halesowen B63 4JX",
+        "email": "info@halashomes.co.uk",
+        "telephoneNo": "0121 550 8778",
+        "ageRange": "18+",
+        "cqcRegisteredFor": "Learning Disability",
+        "provideNursing": "No",
+        "capacity": 30.0,
+        "postCode": "B63 4JX",
+        "coordinates": "[52.44464220440522, -2.0660808868916276]",
+        "latitude": 52.444642204405,
+        "longitude": -2.066080886892,
+        "rating": "No published rating"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.4548487,
+          -2.1411762
+        ]
+      },
+      "properties": {
+        "careHomeName": "Highbury House ",
+        "nameAddress": "Highbury House Mental Health Unit Parkfield Road Stourbridge DY8 1HB",
+        "email": "highbury.house@rushcliffec\nare.co.uk",
+        "telephoneNo": "01384 354455",
+        "ageRange": "18+",
+        "cqcRegisteredFor": "Detention Under Mental \nHealth Act \nLearning Disability \nMental Health Condition \nOld Age \nSensory Impairment \nSubstance Misuse \nYounger Adults",
+        "provideNursing": "Yes \nADULT \nMENTAL \nHEALTH \nUNIT \nONLY",
+        "capacity": 21.0,
+        "postCode": "DY8 1HB",
+        "coordinates": "[52.4548487, -2.1411762]",
+        "latitude": 52.4548487,
+        "longitude": -2.1411762,
+        "rating": "Requires improvement"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.4871586,
+          -2.1623606
+        ]
+      },
+      "properties": {
+        "careHomeName": "Highfield Residential ",
+        "nameAddress": "Highfield Residential Home Stream Road Kingswinford DY6 9PB",
+        "email": "info@highfieldres.onmicros\noft.com",
+        "telephoneNo": "01384 288870",
+        "ageRange": "65+",
+        "cqcRegisteredFor": "Dementia \nOld Age \nPhysical Disability \nSensory Impairment",
+        "provideNursing": "No",
+        "capacity": 13.0,
+        "postCode": "DY6 9PB",
+        "coordinates": "[52.4871586, -2.1623606]",
+        "latitude": 52.4871586,
+        "longitude": -2.1623606,
+        "rating": "No published rating"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.11129,
+          -0.864748
+        ]
+      },
+      "properties": {
+        "careHomeName": "Highview  ",
+        "nameAddress": "Highview 12 Priory Road Dudlley DY1 4AD",
+        "email": "highview.home12@gmail.co\nm",
+        "telephoneNo": "01384 258502",
+        "ageRange": "65+",
+        "cqcRegisteredFor": "Dementia \nMental Health Condition \nOld Age \nPhysical Disability \nSensory Impairment",
+        "provideNursing": "No",
+        "capacity": 23.0,
+        "postCode": "DY1 4AD",
+        "coordinates": "[51.11129, -0.864748]",
+        "latitude": 51.11129,
+        "longitude": -0.864748,
+        "rating": "Good"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.4831312,
+          -2.1621007
+        ]
+      },
+      "properties": {
+        "careHomeName": "Hillcroft Nursing ",
+        "nameAddress": "Hillcroft Nursing Home 135 High Street Wordsley Stourbridge DY8 5QS",
+        "email": "hillcroft@astleycarehomes.c\no.uk",
+        "telephoneNo": "01384 271317",
+        "ageRange": "60+",
+        "cqcRegisteredFor": "Dementia \nLearning Disability \nNo Medical Intervention \nOld Age \nPhysician Disability \nYounger Adults",
+        "provideNursing": "Yes",
+        "capacity": 28.0,
+        "postCode": "DY8 5QS",
+        "coordinates": "[52.4831312, -2.1621007]",
+        "latitude": 52.4831312,
+        "longitude": -2.1621007,
+        "rating": "Requires improvement"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.5122987,
+          -2.1024108
+        ]
+      },
+      "properties": {
+        "careHomeName": "Himley Manor ",
+        "nameAddress": "Himley Manor 133 Himley Road Dudley DY1 2QF",
+        "email": "manager@himleymanor.co\nm",
+        "telephoneNo": "01384 238588",
+        "ageRange": "65+",
+        "cqcRegisteredFor": "Dementia \nEating Disorders \nOld Age \nPhysical Disability \nSensory Impairment",
+        "provideNursing": "No",
+        "capacity": 51.0,
+        "postCode": "DY1 2QF",
+        "coordinates": "[52.5122987, -2.1024108]",
+        "latitude": 52.5122987,
+        "longitude": -2.1024108,
+        "rating": "No published rating"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.5028747,
+          -2.1047859
+        ]
+      },
+      "properties": {
+        "careHomeName": "Holly Hall ",
+        "nameAddress": "Holly Hall 170 Stourbridge Road Dudley DY1 2ER",
+        "email": "hollyhall@select-\ngroup.co.uk",
+        "telephoneNo": "01384 252219",
+        "ageRange": null,
+        "cqcRegisteredFor": null,
+        "provideNursing": null,
+        "capacity": 0.0,
+        "postCode": "DY1 2ER",
+        "coordinates": "[52.5028747, -2.1047859]",
+        "latitude": 52.5028747,
+        "longitude": -2.1047859,
+        "rating": "Requires improvement"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.446726,
+          -2.138347
+        ]
+      },
+      "properties": {
+        "careHomeName": "Holly Lodge ",
+        "nameAddress": "Holly Lodge 9 Rectory Road Oldswinford Stourbridge DY8 2HA",
+        "email": "Info@hollylodgecarehome.c\no.uk",
+        "telephoneNo": "01384 373306",
+        "ageRange": "65+",
+        "cqcRegisteredFor": "Dementia \nOld Age \nPhysical Disability \nSensory Impairment",
+        "provideNursing": "No",
+        "capacity": 23.0,
+        "postCode": "DY8 2HA",
+        "coordinates": "[52.446726, -2.138347]",
+        "latitude": 52.446726,
+        "longitude": -2.138347,
+        "rating": "Good"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.464863,
+          -2.149516
+        ]
+      },
+      "properties": {
+        "careHomeName": "Hollybush House  ",
+        "nameAddress": "Hollybush House John Corbett Drive Off Vicarage Road Stourbridge DY8 4HZ",
+        "email": "hollybush.house@shaw.co.\nuk",
+        "telephoneNo": "01384 442782",
+        "ageRange": "65+",
+        "cqcRegisteredFor": "Dementia \nOld Age",
+        "provideNursing": "Yes \n(NHS \nOnly)",
+        "capacity": 24.0,
+        "postCode": "DY8 4HZ",
+        "coordinates": "[52.464863, -2.149516]",
+        "latitude": 52.464863,
+        "longitude": -2.149516,
+        "rating": "Good"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.452297,
+          -2.140777
+        ]
+      },
+      "properties": {
+        "careHomeName": "Hollycroft Nursing ",
+        "nameAddress": "Hollycroft Nursing Home 8-10 Redhill Stourbridge DY8 1ND",
+        "email": "manager@hollycroftcare.co.\nuk",
+        "telephoneNo": "01384 394341",
+        "ageRange": "65+",
+        "cqcRegisteredFor": "Dementia \nNo Medical Intervention \nOld Age \nPhysical Disability \nSensory Impairment",
+        "provideNursing": "Yes",
+        "capacity": 37.0,
+        "postCode": "DY8 1ND",
+        "coordinates": "[52.452297, -2.140777]",
+        "latitude": 52.452297,
+        "longitude": -2.140777,
+        "rating": "Requires improvement"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.4561525,
+          -2.0496545
+        ]
+      },
+      "properties": {
+        "careHomeName": "Inshore Support ",
+        "nameAddress": "Inshore Support 10 Melbourne Road Halesowen B63 2NB",
+        "email": "rachealpace@inshoresuppo\nrtltd.co.uk",
+        "telephoneNo": "0121 501 3389",
+        "ageRange": "Not Stated",
+        "cqcRegisteredFor": "Learning Disability",
+        "provideNursing": "No",
+        "capacity": 3.0,
+        "postCode": "B63 2NB",
+        "coordinates": "[52.4561525, -2.0496545]",
+        "latitude": 52.4561525,
+        "longitude": -2.0496545,
+        "rating": "No published rating"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.4583393,
+          -2.0807963
+        ]
+      },
+      "properties": {
+        "careHomeName": "Inshore Support ",
+        "nameAddress": "Inshore Support 27 Highfield Road Halesowen B63 2DH",
+        "email": "Ruth@inshoresupportltd.co.\nuk",
+        "telephoneNo": "01384 410581",
+        "ageRange": "Not Stated",
+        "cqcRegisteredFor": "Learning Disability \nMental Health Condition",
+        "provideNursing": "No",
+        "capacity": 3.0,
+        "postCode": "B63 2DH",
+        "coordinates": "[52.4583393, -2.0807963]",
+        "latitude": 52.4583393,
+        "longitude": -2.0807963,
+        "rating": "No published rating"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.5388878,
+          -2.1008776
+        ]
+      },
+      "properties": {
+        "careHomeName": "Island Court ",
+        "nameAddress": "Island Court 55 Bourne Street Woodsetton Dudley WV14 9HN",
+        "email": "islandcourtmanager@select\n-group.co.uk",
+        "telephoneNo": "01902 886300",
+        "ageRange": "65+",
+        "cqcRegisteredFor": "Dementia \nPhysical Disabilities \nSensory Impairments",
+        "provideNursing": "Yes",
+        "capacity": 55.0,
+        "postCode": "WV14 9HN",
+        "coordinates": "[52.5388878, -2.1008776]",
+        "latitude": 52.5388878,
+        "longitude": -2.1008776,
+        "rating": "No published rating"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.548357,
+          -2.083124
+        ]
+      },
+      "properties": {
+        "careHomeName": "Jubilee Court ",
+        "nameAddress": "Jubilee Court Central Drive Coseley WV14 9EJ",
+        "email": "jubileecourt@select-\ngroup.co.uk",
+        "telephoneNo": "01902 883426",
+        "ageRange": "Under 65",
+        "cqcRegisteredFor": "Learning Disability \nMental Health Condition \nPhysical Disability \nSensory Impairment",
+        "provideNursing": "Yes",
+        "capacity": 30.0,
+        "postCode": "WV14 9EJ",
+        "coordinates": "[52.548357, -2.083124]",
+        "latitude": 52.548357,
+        "longitude": -2.083124,
+        "rating": "No published rating"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.48173,
+          -2.12139
+        ]
+      },
+      "properties": {
+        "careHomeName": "Kathleen House ",
+        "nameAddress": "Kathleen House (Alphonsus) 59-61 Addiison Road Brierley Hill DY5 3RR",
+        "email": "kathleenhouse@alphonsuss\nervices.co.uk",
+        "telephoneNo": "01384 70187",
+        "ageRange": "Not Stated",
+        "cqcRegisteredFor": "Learning Disabilities \nPhysical Disability",
+        "provideNursing": "No",
+        "capacity": 15.0,
+        "postCode": "DY5 3RR",
+        "coordinates": "[52.48173, -2.12139]",
+        "latitude": 52.48173,
+        "longitude": -2.12139,
+        "rating": "Good"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.4730054,
+          -2.0272562
+        ]
+      },
+      "properties": {
+        "careHomeName": "Kiniths House ",
+        "nameAddress": "Kiniths House 33 Kiniths Way Halesowen B62 9HJ",
+        "email": "enquiries@kinithshouse.co.\nuk",
+        "telephoneNo": "0121 559 7091",
+        "ageRange": "18+",
+        "cqcRegisteredFor": "Learning Disability",
+        "provideNursing": "No",
+        "capacity": 15.0,
+        "postCode": "B62 9HJ",
+        "coordinates": "[52.4730054, -2.0272562]",
+        "latitude": 52.4730054,
+        "longitude": -2.0272562,
+        "rating": "No published rating"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.4445543,
+          -2.0226654
+        ]
+      },
+      "properties": {
+        "careHomeName": "Lapal House ",
+        "nameAddress": "Lapal House Lapal Lane South Halesowen B62 0ES",
+        "email": "admin@lapalhouse.co.uk",
+        "telephoneNo": "0121 503 0326",
+        "ageRange": "65+",
+        "cqcRegisteredFor": "Old Age \nPhysical Disability",
+        "provideNursing": "No",
+        "capacity": 41.0,
+        "postCode": "B62 0ES",
+        "coordinates": "[52.4445543, -2.0226654]",
+        "latitude": 52.4445543,
+        "longitude": -2.0226654,
+        "rating": "No published rating"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.515211,
+          -2.087861
+        ]
+      },
+      "properties": {
+        "careHomeName": "Links (The) ",
+        "nameAddress": "Links (The) 252 The Broadway Dudley DY1 3DN",
+        "email": "TheLinks.Manager@shaw.c\no.uk",
+        "telephoneNo": "01384 459651",
+        "ageRange": "18+",
+        "cqcRegisteredFor": "Learning Disability \nMental Health Condition",
+        "provideNursing": "No",
+        "capacity": 5.0,
+        "postCode": "DY1 3DN",
+        "coordinates": "[52.515211, -2.087861]",
+        "latitude": 52.515211,
+        "longitude": -2.087861,
+        "rating": "Good"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.4921232,
+          -2.0836324
+        ]
+      },
+      "properties": {
+        "careHomeName": "Micron House ",
+        "nameAddress": "Micron House 41 Halesowen Road Netherton Dudley DY2 9QD",
+        "email": "steph@activecareservices.c\no.uk",
+        "telephoneNo": "01384 230504",
+        "ageRange": "65+",
+        "cqcRegisteredFor": "Dementia \nOld Age",
+        "provideNursing": "No",
+        "capacity": 10.0,
+        "postCode": "DY2 9QD",
+        "coordinates": "[52.4921232, -2.0836324]",
+        "latitude": 52.4921232,
+        "longitude": -2.0836324,
+        "rating": "No published rating"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.471037,
+          -2.154494159038
+        ]
+      },
+      "properties": {
+        "careHomeName": "Mount (The) ",
+        "nameAddress": "Mount (The) 226 Brettell Lane Ambecote Stourbridge DY8 4BQ",
+        "email": "themount226@hotmail.co\nm",
+        "telephoneNo": "01384 265955",
+        "ageRange": "18+",
+        "cqcRegisteredFor": "Dementia \nOld Age",
+        "provideNursing": "No",
+        "capacity": 18.0,
+        "postCode": "DY8 4BQ",
+        "coordinates": "[52.471036999999995, -2.1544941590377498]",
+        "latitude": 52.471037,
+        "longitude": -2.154494159038,
+        "rating": "Requires improvement"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.5106726,
+          -2.0943908
+        ]
+      },
+      "properties": {
+        "careHomeName": "Nelson House ",
+        "nameAddress": "Nelson House 1-3 Nelson Road Dudley DY1 2AG",
+        "email": "stephen.kular@nhs.net",
+        "telephoneNo": "01384 237717",
+        "ageRange": "65+",
+        "cqcRegisteredFor": "Dementia \nOld Age",
+        "provideNursing": "No",
+        "capacity": 21.0,
+        "postCode": "DY1 2AG",
+        "coordinates": "[52.5106726, -2.0943908]",
+        "latitude": 52.5106726,
+        "longitude": -2.0943908,
+        "rating": "Requires improvement"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.482742,
+          -2.0763456
+        ]
+      },
+      "properties": {
+        "careHomeName": "Netherton Green ",
+        "nameAddress": "Netherton Green Nursing Home Bowling Green Road Netherton Dudley DY2 9LY",
+        "email": "homemanager.nethertongr\neen@advinia.co.uk",
+        "telephoneNo": "01384 410120",
+        "ageRange": "60+",
+        "cqcRegisteredFor": "Dementia \nOld Age \nPhysical Disability",
+        "provideNursing": "Yes",
+        "capacity": 120.0,
+        "postCode": "DY2 9LY",
+        "coordinates": "[52.482742, -2.0763456]",
+        "latitude": 52.482742,
+        "longitude": -2.0763456,
+        "rating": "Requires improvement"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.49755,
+          -2.16889
+        ]
+      },
+      "properties": {
+        "careHomeName": "New Bradley Hall ",
+        "nameAddress": "New Bradley Hall Compton Drive Off Stream Road Kingswinford DY6 9NP",
+        "email": "newbradleyhall@bchg.co.uk  01384 278689",
+        "telephoneNo": null,
+        "ageRange": "18+",
+        "cqcRegisteredFor": "Dementia \nOld Age",
+        "provideNursing": "No",
+        "capacity": 66.0,
+        "postCode": "DY6 9NP",
+        "coordinates": "[52.49755, -2.16889]",
+        "latitude": 52.49755,
+        "longitude": -2.16889,
+        "rating": "No published rating"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.4436731,
+          -2.1594272
+        ]
+      },
+      "properties": {
+        "careHomeName": "Norton Lodge ",
+        "nameAddress": "Norton Lodge 142 Norton Road Stourbridge DY8 2TA",
+        "email": "nischapritchard@yahoo.co\nm",
+        "telephoneNo": "01384 376666",
+        "ageRange": "65+",
+        "cqcRegisteredFor": "Old Age \nPhysical Disability",
+        "provideNursing": "No",
+        "capacity": 18.0,
+        "postCode": "DY8 2TA",
+        "coordinates": "[52.4436731, -2.1594272]",
+        "latitude": 52.4436731,
+        "longitude": -2.1594272,
+        "rating": "No published rating"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.493425,
+          -2.083401
+        ]
+      },
+      "properties": {
+        "careHomeName": "Oak House ",
+        "nameAddress": "Oak House (Jut us Care) 36 Oak Street Central Drive Netherton DY2 9LJ",
+        "email": "justuscareltd@gmail.com",
+        "telephoneNo": "01384 413622",
+        "ageRange": "18+",
+        "cqcRegisteredFor": "Dementia \nEating Disorders \nLearning Disability \nOld Age \nPhysical Disability \nSensory Impairment \nYounger Adults",
+        "provideNursing": "No",
+        "capacity": 4.0,
+        "postCode": "DY2 9LJ",
+        "coordinates": "[52.493425, -2.083401]",
+        "latitude": 52.493425,
+        "longitude": -2.083401,
+        "rating": "No published rating"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.5012219,
+          -2.1650633
+        ]
+      },
+      "properties": {
+        "careHomeName": "Oaklands ",
+        "nameAddress": "Oaklands Wartell Bank Kingswinford DY6 7QJ",
+        "email": "dpsahni@hotmail.co.uk",
+        "telephoneNo": "01384 291070",
+        "ageRange": "50+",
+        "cqcRegisteredFor": "Dementia \nMental Health Condition \nOld Age \nPhysical Disability",
+        "provideNursing": "Yes",
+        "capacity": 40.0,
+        "postCode": "DY6 7QJ",
+        "coordinates": "[52.5012219, -2.1650633]",
+        "latitude": 52.5012219,
+        "longitude": -2.1650633,
+        "rating": "Good"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.5028747,
+          -2.1047859
+        ]
+      },
+      "properties": {
+        "careHomeName": "Oakleigh Lodge ",
+        "nameAddress": "Oakleigh Lodge 158-160 Stourbridge Road Dudley DY1 2ER",
+        "email": "admin@oakleigh-\nhealthcare.co.uk",
+        "telephoneNo": "01384 232482",
+        "ageRange": "18-65",
+        "cqcRegisteredFor": "Learning Disability \nMental Health Condition \nPhysical Disability \nSensory Impairment \nYounger Adults",
+        "provideNursing": "No",
+        "capacity": 19.0,
+        "postCode": "DY1 2ER",
+        "coordinates": "[52.5028747, -2.1047859]",
+        "latitude": 52.5028747,
+        "longitude": -2.1047859,
+        "rating": "Requires improvement"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.451177,
+          -2.141871
+        ]
+      },
+      "properties": {
+        "careHomeName": "Oriel Care Home ",
+        "nameAddress": "Oriel Care Home 87 Hagley Road Stoubridge DY8 1QY",
+        "email": "info@orielcare.co.uk",
+        "telephoneNo": "01384 375867",
+        "ageRange": "Mobile \nwith one \ncarer  \n 65+",
+        "cqcRegisteredFor": "Dementia \nOld Age \nPhysical Disability \nSensory Impairment",
+        "provideNursing": "No",
+        "capacity": 29.0,
+        "postCode": "DY8 1QY",
+        "coordinates": "[52.451177, -2.141871]",
+        "latitude": 52.451177,
+        "longitude": -2.141871,
+        "rating": "No published rating"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.5358986,
+          -2.108205
+        ]
+      },
+      "properties": {
+        "careHomeName": "Park Lane House ",
+        "nameAddress": "Park Lane House 163 Tipton Road Woodsetton Dudley DY3 1AB",
+        "email": "parklanehome@outlook.co\nm",
+        "telephoneNo": "01902 884967",
+        "ageRange": "60+",
+        "cqcRegisteredFor": "Dementia \nOld Age",
+        "provideNursing": "No",
+        "capacity": 30.0,
+        "postCode": "DY3 1AB",
+        "coordinates": "[52.5358986, -2.108205]",
+        "latitude": 52.5358986,
+        "longitude": -2.108205,
+        "rating": "Good"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.4529282,
+          -2.142605991086
+        ]
+      },
+      "properties": {
+        "careHomeName": "Parkfield Grange  ",
+        "nameAddress": "Parkfield Grange (Stourbridge Care Limited) 31 Hagley Road Stourbridge DY8 1QH",
+        "email": "parkfield.admin@cinnamon\ncc.com",
+        "telephoneNo": "01384 470358",
+        "ageRange": "60+",
+        "cqcRegisteredFor": "Dementia \nOld Age \nPhysical Disability \nSensory Impairment \nYounger Adults \nAlzheimer's \nMultiple Sclerosis \nParkinson's Disease, Stroke",
+        "provideNursing": "No",
+        "capacity": 80.0,
+        "postCode": "DY8 1QH",
+        "coordinates": "[52.4529282, -2.14260599108629]",
+        "latitude": 52.4529282,
+        "longitude": -2.142605991086,
+        "rating": "No published rating"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.5318036,
+          -2.0878087
+        ]
+      },
+      "properties": {
+        "careHomeName": "Pathways Care Group ",
+        "nameAddress": "Pathways Care Group 44 Sedgley Road Woodsetton Dudley DY1 4NG",
+        "email": "enquiries@pathways4care.c\no.uk",
+        "telephoneNo": "01902 887630",
+        "ageRange": "18+",
+        "cqcRegisteredFor": "Learning Disability \nOld Age \nPhysical Disability \nYounger Adults",
+        "provideNursing": "No",
+        "capacity": 5.0,
+        "postCode": "DY1 4NG",
+        "coordinates": "[52.5318036, -2.0878087]",
+        "latitude": 52.5318036,
+        "longitude": -2.0878087,
+        "rating": "Good"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.4777139,
+          -2.1593561
+        ]
+      },
+      "properties": {
+        "careHomeName": "Redbrick Court ",
+        "nameAddress": "Redbrick Court 54 High Street Wordsley Stourbridge DY8 5SD",
+        "email": "admin@sclcare.co.uk",
+        "telephoneNo": "01384 485444",
+        "ageRange": "60+",
+        "cqcRegisteredFor": "Dementia \nOld Age \nPhysical Disability \nSensory Impairment",
+        "provideNursing": "No",
+        "capacity": 37.0,
+        "postCode": "DY8 5SD",
+        "coordinates": "[52.4777139, -2.1593561]",
+        "latitude": 52.4777139,
+        "longitude": -2.1593561,
+        "rating": "No published rating"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.5124201,
+          -2.0905432
+        ]
+      },
+      "properties": {
+        "careHomeName": "Richmond Court ",
+        "nameAddress": "Richmond Court 16 St James\u2019s Road Dudley DY1 3JD",
+        "email": "richmondcourtdudley@outloo\nk.com",
+        "telephoneNo": "01384 254442",
+        "ageRange": "from \n50 \u2013 150",
+        "cqcRegisteredFor": "Dementia \nMental Health Condition \nOld Age \nPhysical Disability \nSensory Impairment",
+        "provideNursing": "No",
+        "capacity": 21.0,
+        "postCode": "DY1 3JD",
+        "coordinates": "[52.5124201, -2.0905432]",
+        "latitude": 52.5124201,
+        "longitude": -2.0905432,
+        "rating": "Good"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.5354323,
+          -2.1190688
+        ]
+      },
+      "properties": {
+        "careHomeName": "Ridgeway Court ",
+        "nameAddress": "Ridgeway Court 2-4 Dudley Road Sedgley DY3 1SX",
+        "email": "manager@ridgewaycares.co.\nuk",
+        "telephoneNo": "01902 883130",
+        "ageRange": "65+",
+        "cqcRegisteredFor": "Dementia \nOld Age \nPhysical Disability \nSensory Impairment \nYounger Adults",
+        "provideNursing": "No",
+        "capacity": 39.0,
+        "postCode": "DY3 1SX",
+        "coordinates": "[52.5354323, -2.1190688]",
+        "latitude": 52.5354323,
+        "longitude": -2.1190688,
+        "rating": "Good"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.196417,
+          -115.170299
+        ]
+      },
+      "properties": {
+        "careHomeName": "Riverside Care ",
+        "nameAddress": "Riverside Care (Kingswinford) Ltd Wolverhampton Road Wall Heath Kingswinford DY6 7DA",
+        "email": "HM@riversidecarecentre.co\n.uk",
+        "telephoneNo": "01384 404233",
+        "ageRange": "18+",
+        "cqcRegisteredFor": "Dementia \nMental Health Condition \nPhysical Disability \nSensory Impairment \nYounger Adults",
+        "provideNursing": "No",
+        "capacity": 24.0,
+        "postCode": "DY6 7DA",
+        "coordinates": "[36.196417, -115.170299]",
+        "latitude": 36.196417,
+        "longitude": -115.170299,
+        "rating": "No published rating"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.4728913,
+          -2.106248001785
+        ]
+      },
+      "properties": {
+        "careHomeName": "Rosewood Care Home ",
+        "nameAddress": "Rosewood Care Home 139-143 High Street Pensnett Brierley Hill DY5 4EA",
+        "email": "manager@rosewoodcareho\nme.com",
+        "telephoneNo": "01384 77441",
+        "ageRange": "55+",
+        "cqcRegisteredFor": "Dementia \nMental Health Condition \nOld Age \nPhysical Disability \nSensory Impairment",
+        "provideNursing": "No",
+        "capacity": 43.0,
+        "postCode": "DY5 4EA",
+        "coordinates": "[52.4728913, -2.106248001784807]",
+        "latitude": 52.4728913,
+        "longitude": -2.106248001785,
+        "rating": "No published rating"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.5,
+          -2.08333
+        ]
+      },
+      "properties": {
+        "careHomeName": "Russell Court ",
+        "nameAddress": "Russell Court Overfield Road Dudley DY1 2NY",
+        "email": "manager@russell-court.com  0744 220 6657",
+        "telephoneNo": null,
+        "ageRange": "50+",
+        "cqcRegisteredFor": "Old Age \nPhysical Disability \nSensory Impairment \nYounger Adults, Dementia",
+        "provideNursing": "Yes",
+        "capacity": 42.0,
+        "postCode": "DY1 2NY",
+        "coordinates": "[52.5, -2.08333]",
+        "latitude": 52.5,
+        "longitude": -2.08333,
+        "rating": "Requires improvement"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.4327421,
+          -2.1301692
+        ]
+      },
+      "properties": {
+        "careHomeName": "Safe Harbour ",
+        "nameAddress": "Safe Harbour 254 Hagley Road Stourbridge DY9 0RW",
+        "email": "admin@safeharbourcare.co\n.uk",
+        "telephoneNo": "01562 888125",
+        "ageRange": "Not \nStated",
+        "cqcRegisteredFor": "Learning Disability",
+        "provideNursing": "No",
+        "capacity": 6.0,
+        "postCode": "DY9 0RW",
+        "coordinates": "[52.4327421, -2.1301692]",
+        "latitude": 52.4327421,
+        "longitude": -2.1301692,
+        "rating": "Good"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.4327421,
+          -2.1301692
+        ]
+      },
+      "properties": {
+        "careHomeName": "Safe Harbour ",
+        "nameAddress": "Safe Harbour 260 Hagley Road Stourbridge DY9 0RW",
+        "email": "clientadmin@safeharbourca\nre.com",
+        "telephoneNo": "01384 885018",
+        "ageRange": "Not \nStated",
+        "cqcRegisteredFor": "Learning Disability",
+        "provideNursing": "No",
+        "capacity": 4.0,
+        "postCode": "DY9 0RW",
+        "coordinates": "[52.4327421, -2.1301692]",
+        "latitude": 52.4327421,
+        "longitude": -2.1301692,
+        "rating": "Good"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.5028747,
+          -2.1047859
+        ]
+      },
+      "properties": {
+        "careHomeName": "Stoneleigh House ",
+        "nameAddress": "Stoneleigh House 166-168 Stourbridge Road Dudley DY1 2ER",
+        "email": "stoneleigh_house@hotmail.\ncom",
+        "telephoneNo": "01384 235590",
+        "ageRange": "65+",
+        "cqcRegisteredFor": "Dementia \nLearning Disability \nMental Health Condition \nOld Age \nPhysical Disability",
+        "provideNursing": "No",
+        "capacity": 24.0,
+        "postCode": "DY1 2ER",
+        "coordinates": "[52.5028747, -2.1047859]",
+        "latitude": 52.5028747,
+        "longitude": -2.1047859,
+        "rating": "Requires improvement"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.4787384,
+          -2.1551871
+        ]
+      },
+      "properties": {
+        "careHomeName": "Swiss House ",
+        "nameAddress": "Swiss House 41-43 Brierley Hill Road Wordsley Stourbridge DY8 5SJ",
+        "email": "swiss.house@select-\ngroup.co.uk",
+        "telephoneNo": "01384 573110",
+        "ageRange": "Not \nStated",
+        "cqcRegisteredFor": "Learning Disability \nPhysical Disability \nYounger Adults",
+        "provideNursing": "No",
+        "capacity": 10.0,
+        "postCode": "DY8 5SJ",
+        "coordinates": "[52.4787384, -2.1551871]",
+        "latitude": 52.4787384,
+        "longitude": -2.1551871,
+        "rating": "No published rating"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.4546569,
+          -2.1563455
+        ]
+      },
+      "properties": {
+        "careHomeName": "Tudor Manor ",
+        "nameAddress": "Tudor Manor 2 Brook Street Stourbridge DY8 3XF",
+        "email": "regmanager1@yahoo.com",
+        "telephoneNo": "01384 379165",
+        "ageRange": "60+",
+        "cqcRegisteredFor": "Old Age \nPhysical Disability, Dementia",
+        "provideNursing": "No",
+        "capacity": 22.0,
+        "postCode": "DY8 3XF",
+        "coordinates": "[52.4546569, -2.1563455]",
+        "latitude": 52.4546569,
+        "longitude": -2.1563455,
+        "rating": "Inadequate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.44859,
+          -2.04938
+        ]
+      },
+      "properties": {
+        "careHomeName": "Two Gates House ",
+        "nameAddress": "Two Gates House 40-44 Two Gates Lane Colley Gate Halesowen B83 2LJ",
+        "email": "max_wellington@outlook.c\nom",
+        "telephoneNo": "01384 567448",
+        "ageRange": "65+",
+        "cqcRegisteredFor": "Old Age \nPhysical Disability \nSensory Impairment, Dementia",
+        "provideNursing": "No",
+        "capacity": 32.0,
+        "postCode": "B83 2LJ",
+        "coordinates": "[52.44859, -2.04938]",
+        "latitude": 52.44859,
+        "longitude": -2.04938,
+        "rating": "No published rating"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.4859273,
+          -2.1231611
+        ]
+      },
+      "properties": {
+        "careHomeName": "Victoria Lodge ",
+        "nameAddress": "Victoria Lodge Bent Street Brierley Hill DY5 2RB",
+        "email": "victoriamanager@select-\ngroup.co.uk",
+        "telephoneNo": "01384 572567",
+        "ageRange": "65+",
+        "cqcRegisteredFor": "Old Age \nSensory Impairment, Dementia",
+        "provideNursing": "No",
+        "capacity": 63.0,
+        "postCode": "DY5 2RB",
+        "coordinates": "[52.4859273, -2.1231611]",
+        "latitude": 52.4859273,
+        "longitude": -2.1231611,
+        "rating": "No published rating"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.4930732,
+          -2.1326086
+        ]
+      },
+      "properties": {
+        "careHomeName": "Village Nursing Home ",
+        "nameAddress": "Village Nursing Home (The) 190 Commonside Brierley Hill DY5 4AA",
+        "email": "kerryjackson@thevillagenur\nsinghome.co.uk",
+        "telephoneNo": "01384 884499",
+        "ageRange": "50+",
+        "cqcRegisteredFor": "Mental Health Condition \nOld Age \nPhysical Disability \nYounger Adults, Dementia",
+        "provideNursing": "Yes",
+        "capacity": 90.0,
+        "postCode": "DY5 4AA",
+        "coordinates": "[52.4930732, -2.1326086]",
+        "latitude": 52.4930732,
+        "longitude": -2.1326086,
+        "rating": "Requires improvement"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.4434178,
+          -2.1320989
+        ]
+      },
+      "properties": {
+        "careHomeName": "Woodlands Gate Rest ",
+        "nameAddress": "Woodlands Gate Rest Home 12 Dingle Road Pedmore Stourbridge DY9 0RS",
+        "email": "woodlands@sclcare.co.uk",
+        "telephoneNo": "01562 885546",
+        "ageRange": "60+",
+        "cqcRegisteredFor": "Old Age \nPhysical Disability \nSensory Impairment, Dementia",
+        "provideNursing": "No",
+        "capacity": 20.0,
+        "postCode": "DY9 0RS",
+        "coordinates": "[52.4434178, -2.1320989]",
+        "latitude": 52.4434178,
+        "longitude": -2.1320989,
+        "rating": "Good"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.4356855,
+          -2.0820804
+        ]
+      },
+      "properties": {
+        "careHomeName": "Woodview House ",
+        "nameAddress": "Woodview House Nursing Home Waugh Drive Hagley Road Hayley Green Haleowen B63 1EN",
+        "email": "woodview@shaw.co.uk",
+        "telephoneNo": "0121 585 6440",
+        "ageRange": "65+",
+        "cqcRegisteredFor": "C\nMental Health Condition \nOld Age \nCG Commissioned Placements \nONLY, Dementia",
+        "provideNursing": "Yes",
+        "capacity": 24.0,
+        "postCode": "B63 1EN",
+        "coordinates": "[52.4356855, -2.0820804]",
+        "latitude": 52.4356855,
+        "longitude": -2.0820804,
+        "rating": "No published rating"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.4780241,
+          -2.1562237
+        ]
+      },
+      "properties": {
+        "careHomeName": "Wordsley Hall ",
+        "nameAddress": "Wordsley Hall Mill Street Wordsley Stourbridge DY8 5SX",
+        "email": "manager.wordsleyhall@min\nstercaregroup.co.uk",
+        "telephoneNo": "01384 571606",
+        "ageRange": "65+",
+        "cqcRegisteredFor": "Old Age, Dementia",
+        "provideNursing": "No",
+        "capacity": 41.0,
+        "postCode": "DY8 5SX",
+        "coordinates": "[52.4780241, -2.1562237]",
+        "latitude": 52.4780241,
+        "longitude": -2.1562237,
+        "rating": "Good"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.4327421,
+          -2.1301692
+        ]
+      },
+      "properties": {
+        "careHomeName": "Wychbury Care Home ",
+        "nameAddress": "Wychbury Care Home 350-352 Hagley Road Pedmore Stourbridge DY9 0QY",
+        "email": "daniel@wychcare.com",
+        "telephoneNo": "01562 885106",
+        "ageRange": "65+",
+        "cqcRegisteredFor": ", Old Age",
+        "provideNursing": "No",
+        "capacity": 42.0,
+        "postCode": "DY9 0QY",
+        "coordinates": "[52.4327421, -2.1301692]",
+        "latitude": 52.4327421,
+        "longitude": -2.1301692,
+        "rating": "Good"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.5025546,
+          -2.1702452
+        ]
+      },
+      "properties": {
+        "careHomeName": "Wyncroft House ",
+        "nameAddress": "Wyncroft House 16 Moss Grove Kingswinford DY6 9HU",
+        "email": "manager@wyncrofthouse.c\no.uk",
+        "telephoneNo": "01384 291688",
+        "ageRange": "65+",
+        "cqcRegisteredFor": "Old Age, Dementia",
+        "provideNursing": "Yes",
+        "capacity": 38.0,
+        "postCode": "DY6 9HU",
+        "coordinates": "[52.5025546, -2.1702452]",
+        "latitude": 52.5025546,
+        "longitude": -2.1702452,
+        "rating": "Requires improvement"
+      }
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+body {
+    padding: 0;
+    margin: 5px;
+  }
+  
+  #map,
+  body,
+  html {
+    height: 95%;
+  }
+  #address {
+    width: 350px;
+}
