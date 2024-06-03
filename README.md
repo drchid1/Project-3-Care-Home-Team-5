@@ -2,9 +2,10 @@
 
 # Overview
 
-We propose to create a free, open-source tool which can assist families in choosing a care home for their loved ones. There are commercially listed websites which can help in this process, but there can be bias in the information. Some care homes may be promoted on the search through paid advertising, and websites could omit care homes that are not willing to pay for advertising subscriptions. We have chosen the Dudley borough in the West Midlands as a test bed for our project. The Dudley Council has its own [website](https://adultsocialcaremarketplace.dudley.gov.uk/) hosting the search for local care homes in the area; however, this produces a list of care homes without visualisation of the care homes on a map.
-
-We aimed to create an unbiased search tool for hospitals and families looking for care homes funded by the Dudley Borough Council. As we have taken the visualisation track for this project, we can display all the care homes on an interactive map close to the family home, which can better inform about travel. We will also be able to layer other features the care homes provide using other specialist services and options the care homes provide together with the Care Quality Commission Rating. We will also provide a statistical visualisation of the types of care homes, beds, and services the council has access to help future commissioning on the population's needs.      
+We proposed to create a free, open-source tool which can assist families in choosing a care home for their loved ones. There are commercially listed websites which can help in this process, but there can be bias in the information. Some care homes may be promoted on the search through paid advertising, and websites could omit care homes that are not willing to pay for advertising subscriptions. We have chosen the Dudley borough in the West Midlands as a test bed for our project. The Dudley Council has its own [website](https://adultsocialcaremarketplace.dudley.gov.uk/) hosting the search for local care homes in the area; however, this produces a simple list of care homes without visualisation of the care homes on a map.
+ 
+We aimed to create an unbiased search tool for hospitals and families looking for care homes funded by the Dudley Borough Council. As we have taken the visualisation track for this project, we display all the care homes on an interactive map close to the family home, which can better inform potential visitors about travel. We were also able to layer other features the care homes provide using other specialist services. We also provide a tabular visualisation of the types of care homes, beds, and services the council has access to help future commissioning on the population's needs.      
+     
 
 ## Team Members
 
@@ -15,31 +16,19 @@ We aimed to create an unbiased search tool for hospitals and families looking fo
 - Murali Veerabahu
 
 
-## Visualisations
-
-To fulfill our brief we created three different visualisations. 
-
-One was created using matplotlib, and shows a range of commissionaing and care home information.
-
-We used java leaflet to create an interactive map to show care home locations compared to each other and a user inputted home addresss.
-
-Finally streamlit was used to create a table which returns a sorted list of care homes, based on input data. 
-
-
 ## Data
-
+ 
 We used two main sources for the data for our project:
-
-##### Dudley Borough Council Website
+ 
+**Dudley Borough Council Website -**
 On the Dudley council website, we found an existing pdf file which listed the council funded care homes, basic contact information and a few further details.
-to csv? to dataframe? clean data?...
-
-##### Care Quality Commission (CQC) API
+ 
+**Care Quality Commission (CQC) API -**
 We then gathered extra data from the CQC API, using this we gathered information about the most recent CQC rating.
+ 
+These sets of data were combined and cleaned. Age ranges were changed to minimum and maximum age categories, and postcodes were used to calculate latitude and longitude coordinates for plotting on the maps.
+We loaded this combined and cleaned data into a new MongoDB database.
 
-These sets of data were combined and cleaned. Age ranges were changed to minimum and maximum age categories, and postcodes were used to calculate latitude and longitude co-ordinates for plotting on the maps.
-
-capacity data??
 
 
 # Instructions on how to use and interact with the project
@@ -62,9 +51,15 @@ For the CQC API an api_key.py file needs to be created in the [code](code) folde
 
 ### Interactive map of Dudley Council Funded Care Homes
 We have created an interactive map which shows the Dudley area. It has markers for all the council funded care homes. This is then filterable based on care needs, such as dementia, physical disability, mental health and more. Additionally, the user can add a marker of a home address to see which care homes are best located. Clicking on a marker then shows additional information; contact details, a latest CQC rating and the care needs the care home can support. 
+ ![Map img](output/Leaflet%20JS%20Map.png)
 
 ### Streamlit App
-The streamlit app opens to a page asking the user to enter a home address and age of the patient. Using the Google API it then returns a sorted dataframe of care homes, sorted by driving distance, with information such as a colour coded CQC rating and . This dataframe has the capacity to update according to live data, the number of beds avaliable sorted in a separate file lets user know current avaiblity.
+The streamlit app opens to a page asking the user to enter a home address and age of the patient. Using the Google API it then returns a sorted dataframe of care homes, sorted by driving distance, with information such as the address, a colour coded CQC rating, and capacity. This dataframe has the ability to update according to live data, the listed capacity is the number of available beds, these are stored in a separate file (which could be regularly updated) and so lets users know a current available capacity.
+![App img](output/Streamlit%20App.png)
+ 
+
+### Matplotlib Visualisations
+We also created a series of visualisations using matplotlib which show a variety of care home statistics. These can be used for general information or for commissioning purposes - to see how well the current care homes cover needs. There are graphs which show care home age-range distributions, capacity distribution, the provision of nursing care, and CQC rating.
 
 
 # Ethical Considerations
