@@ -29,9 +29,33 @@ We then gathered extra data from the CQC API, using this we gathered information
 These sets of data were combined and cleaned. Age ranges were changed to minimum and maximum age categories, and postcodes were used to calculate latitude and longitude coordinates for plotting on the maps.
 We loaded this combined and cleaned data into a new MongoDB database.
 
+## ETL Process
+
 ![alt text](output/DataETLProject3.png)
 
+This ETL process ensures the effective extraction, transformation, and loading of data from diverse sources. The subsequent visualizations make the data accessible and interactive, thereby assisting families and caregivers in making well-informed decisions regarding care homes.
 
+Extraction Phase:
+
+PDF Extraction: Utilizing Camelot to scrape data from Dudley Council PDFs.
+API Integration: Fetching up-to-date care home ratings via the Care Quality Commission (CQC) API.
+Excel Data Import: Aggregating local capacity data from Excel files.
+Geocoding: Using Google Maps API to obtain geographic coordinates for care home locations.
+
+Transformation Phase:
+
+Data Integration: Merging data from all sources into a unified DataFrame using Pandas.
+Data Cleaning and Enrichment: Ensuring data consistency and enriching it with geocoding information, local capacity details, and CQC ratings.
+
+Load Phase:
+
+Database Storage: Uploading the cleaned and transformed data as a CSV file to MongoDB for efficient handling of both structured and unstructured data, enabling easy querying and retrieval.
+
+Visualization Phase:
+
+Interactive Mapping: Creating an interactive map with Leaflet and D3.js to visualize the geographic distribution of care homes.
+Web Application: Developing an interactive web app with Streamlit to facilitate data exploration.
+Analytical Charts: Utilizing Matplotlib to generate various charts and graphs, highlighting trends in care home ratings and capacity.
 
 # Instructions on how to use and interact with the project
 
