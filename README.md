@@ -29,6 +29,8 @@ We then gathered extra data from the CQC API, using this we gathered information
 These sets of data were combined and cleaned. Age ranges were changed to minimum and maximum age categories, and postcodes were used to calculate latitude and longitude coordinates for plotting on the maps.
 We loaded this combined and cleaned data into a new MongoDB database.
 
+![alt text](output/DataETLProject3.png)
+
 
 
 # Instructions on how to use and interact with the project
@@ -49,17 +51,26 @@ For the CQC API an api_key.py file needs to be created in the [code](code) folde
    subscription_key = "Insert your CQC API Key"
 ```
 
+
 ### Interactive map of Dudley Council Funded Care Homes
 We have created an interactive map which shows the Dudley area. It has markers for all the council funded care homes. This is then filterable based on care needs, such as dementia, physical disability, mental health and more. Additionally, the user can add a marker of a home address to see which care homes are best located. Clicking on a marker then shows additional information; contact details, a latest CQC rating and the care needs the care home can support. 
  ![Map img](output/Leaflet%20JS%20Map.png)
+
+To see this visualisation please run the [index.html](code/imap/index.html) in the [imap](code/imap) folder. The file will need to be run using a Python server as the JSON file is saved locally in the data folder.
 
 ### Streamlit App
 The streamlit app opens to a page asking the user to enter a home address and age of the patient. Using the Google API it then returns a sorted dataframe of care homes, sorted by driving distance, with information such as the address, a colour coded CQC rating, and capacity. This dataframe has the ability to update according to live data, the listed capacity is the number of available beds, these are stored in a separate file (which could be regularly updated) and so lets users know a current available capacity.
 ![App img](output/Streamlit%20App.png)
  
+To visualise the streamliy app, please run the following command in the terminal\git bash:
+```cmd
+    streamlit run Find_Care_Home_App.py
+```
+
 
 ### Matplotlib Visualisations
-We also created a series of visualisations using matplotlib which show a variety of care home statistics. These can be used for general information or for commissioning purposes - to see how well the current care homes cover needs. There are graphs which show care home age-range distributions, capacity distribution, the provision of nursing care, and CQC rating.
+We also created a series of visualisations using matplotlib which show a variety of care home statistics. These can be used for general information or for commissioning purposes - to see how well the current care homes cover needs. There are graphs which show care home age-range distributions, capacity distribution, the provision of nursing care, and CQC rating. These graphs can be found in the [output folder](output).
+
 
 
 # Ethical Considerations
