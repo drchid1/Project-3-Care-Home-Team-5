@@ -1,3 +1,5 @@
+## Date : 3rd June 2024
+
 # Project-3-Care-Home-Team-5
 
 # Overview
@@ -14,9 +16,8 @@ We aimed to create an unbiased search tool for hospitals and families looking fo
 - Eleanor Duplock
 - Mohammad Liaqat
 - Murali Veerabahu
-
-
-## Data
+  
+# Data
  
 We used two main sources for the data for our project:
  
@@ -27,35 +28,33 @@ On the Dudley council website, we found an existing pdf file which listed the co
 We then gathered extra data from the CQC API, using this we gathered information about the most recent CQC rating.
  
 These sets of data were combined and cleaned. Age ranges were changed to minimum and maximum age categories, and postcodes were used to calculate latitude and longitude coordinates for plotting on the maps.
+
 We loaded this combined and cleaned data into a new MongoDB database.
 
-## ETL Process
+![MongoDB img](output/MongoDB.png)
+
+# ETL process
 
 ![alt text](output/DataETLProject3.png)
 
 This ETL process ensures the effective extraction, transformation, and loading of data from diverse sources. The subsequent visualizations make the data accessible and interactive, thereby assisting families and caregivers in making well-informed decisions regarding care homes.
 
-Extraction Phase:
+### Extraction Phase:
 
-PDF Extraction: Utilizing Camelot to scrape data from Dudley Council PDFs.
-API Integration: Fetching up-to-date care home ratings via the Care Quality Commission (CQC) API.
-Excel Data Import: Aggregating local capacity data from Excel files.
-Geocoding: Using Google Maps API to obtain geographic coordinates for care home locations.
+**PDF Extraction:** Utilizing Camelot to scrape data from Dudley Council PDFs. **API Integration:** Fetching up-to-date care home ratings via the Care Quality Commission (CQC) API. **Excel Data Import:** Aggregating local capacity data from Excel files.
+**Geocoding:** Using Google Maps API to obtain geographic coordinates for care home locations.
 
-Transformation Phase:
+### Transformation Phase:
 
-Data Integration: Merging data from all sources into a unified DataFrame using Pandas.
-Data Cleaning and Enrichment: Ensuring data consistency and enriching it with geocoding information, local capacity details, and CQC ratings.
+**Data Integration:** Merging data from all sources into a unified DataFrame using Pandas. **Data Cleaning and Enrichment:** Ensuring data consistency and enriching it with geocoding information, local capacity details, and CQC ratings.
 
-Load Phase:
+### Load Phase:
 
-Database Storage: Uploading the cleaned and transformed data as a CSV file to MongoDB for efficient handling of both structured and unstructured data, enabling easy querying and retrieval.
+**Database Storage:** Uploading the cleaned and transformed data as a CSV file to MongoDB for efficient handling of both structured and unstructured data, enabling easy querying and retrieval.
 
-Visualization Phase:
+### Visualization Phase:
 
-Interactive Mapping: Creating an interactive map with Leaflet and D3.js to visualize the geographic distribution of care homes.
-Web Application: Developing an interactive web app with Streamlit to facilitate data exploration.
-Analytical Charts: Utilizing Matplotlib to generate various charts and graphs, highlighting trends in care home ratings and capacity.
+**Interactive Mapping:** Creating an interactive map with Leaflet and D3.js to visualize the geographic distribution of care homes. **Web Application:** Developing an interactive web app with Streamlit to facilitate data exploration. **Analytical Charts:** Utilizing Matplotlib to generate various charts and graphs, highlighting trends in care home ratings and capacity.
 
 # Instructions on how to use and interact with the project
 
@@ -86,7 +85,7 @@ To see this visualisation please run the [index.html](code/imap/index.html) in t
 The streamlit app opens to a page asking the user to enter a home address and age of the patient. Using the Google API it then returns a sorted dataframe of care homes, sorted by driving distance, with information such as the address, a colour coded CQC rating, and capacity. This dataframe has the ability to update according to live data, the listed capacity is the number of available beds, these are stored in a separate file (which could be regularly updated) and so lets users know a current available capacity.
 ![App img](output/Streamlit%20App.png)
  
-To visualise the streamliy app, please run the following command in the terminal\git bash:
+To visualise the streamliy app, please run the following command in the terminal\git bash and it will open the app in your web browser:
 ```cmd
     streamlit run Find_Care_Home_App.py
 ```
@@ -107,19 +106,21 @@ The user is asked to input some personal data (e.g. an address) into the applica
 
 # References
 
-Dudley Borough Council website and PDF- https://www.dudley.gov.uk/residents/care-and-health/adult-health-social-care/housing-with-care-and-support/care-homes-residential-and-nursing/
+1. Dudley Borough Council website and PDF- https://www.dudley.gov.uk/residents/care-and-health/adult-health-social-care/housing-with-care-and-support/care-homes-residential-and-nursing/
 
-Dudley List of Contracted Care Home Providers - https://www.dudley.gov.uk/media/ktclgusy/2023-24_approved_care_home_providers_within_the_dudley_borough_available_to_the_public.pdf
+2. Dudley List of Contracted Care Home Providers - https://www.dudley.gov.uk/media/ktclgusy/2023-24_approved_care_home_providers_within_the_dudley_borough_available_to_the_public.pdf
 
-Care Quality Commission API - https://api-portal.service.cqc.org.uk/api-details#api=syndication&operation=get-changes-within-timeframe
+3. Care Quality Commission API - https://api-portal.service.cqc.org.uk/api-details#api=syndication&operation=get-changes-within-timeframe
 
-matplotlib - https://matplotlib.org
+4. Camelot (pdf) scraping tool - https://camelot-py.readthedocs.io/en/master/
 
-streamlit - https://streamlit.io
+5. matplotlib - https://matplotlib.org
 
-google maps api - https://developers.google.com/maps
+6. streamlit - https://streamlit.io
 
-geojson code - https://geojson.org/
+7. google maps api - https://developers.google.com/maps
+
+8. geojson code - https://gist.github.com/Spaxe/94e130c73a1b835d3c30ea672ec7e5fe - *Code from this source was used to convert CSV data to a JSON file*
 
 
 
